@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Will Terry
   image             : https://www.dobot-robots.com/media/upload/CR.png
-    image_style       : "width: 100px; height: 100px;"  # Adjust the size as needed
+  image_style       : "width: 100px; height: 100px;"  # Adjust the size as needed
   #  behance           : your_username
   # dribbble          : your_username
   email             : will@milbanke.com
