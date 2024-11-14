@@ -24,7 +24,7 @@ facebook:
 github:
   url   : https://www.github.com/
   icon  : fab fa-github
-  color : 333333
+  color : 6e5494
 
 gitlab:
   url   : https://www.gitlab.com/
