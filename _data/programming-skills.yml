@@ -4,8 +4,10 @@
 
 - name: C++
   percentage: 70
-  color:
+  color: secondary
 
 - name: Machine Learning
   percentage: 80
-  color: secondary
+  color: info
+
+  #secondary / success / danger / warning / info / light / dark (choose one only, default is primary)

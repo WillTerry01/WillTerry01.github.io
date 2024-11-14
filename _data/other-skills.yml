@@ -1,11 +1,13 @@
 - name: Fusion 360
   percentage: 85
-  color: 6e5494
+  color: sucess
 
 - name: Cooking
   percentage: 90
-  color: 6e5494
+  color: dark
 
 - name: Woodworking
   percentage: 100
-  color: 6e5494
+  color: danger
+
+  #secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
