@@ -1,13 +1,13 @@
 - name: Python
-  percentage: 90
+  #percentage: 90
   color: danger
 
 - name: C++
-  percentage: 70
+  #percentage: 70
   color: secondary
 
 - name: Machine Learning
-  percentage: 80
+  #percentage: 80
   color: info
 
   #secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
