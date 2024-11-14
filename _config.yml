@@ -60,6 +60,14 @@ collections:
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
+### Collections ###
+collections:
+  uniprojects:
+    output: true
+    permalink: /uniprojects/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
+
 
 ### Disqus ###
 disqus:
@@ -88,6 +96,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "uniprojects"
     values:
       layout: "page"
   - scope:                                              # For Documentation Only
