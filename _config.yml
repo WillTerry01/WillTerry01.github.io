@@ -60,13 +60,9 @@ collections:
     permalink: /projects/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
-
-collections:
-  projects:
+  uniprojects:
     output: true
-    permalink: /projectsuni/:name
-  elements:                                             # For Documentation Only
-    output: true                                   # For Documentation Only
+    permalink: /uniprojects/:name                                  # For Documentation Only
 
 
 ### Disqus ###
