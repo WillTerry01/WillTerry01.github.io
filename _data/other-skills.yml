@@ -1,12 +1,14 @@
 - name: Fusion 360
-  percentage: None
+  percentage: 90
   color: sucess
 
 - name: Cooking
-  percentage: None
+  percentage: 90
   color: dark
 
 - name: Woodworking
+  # set the percentage so it doesnt appear
+  percentage: ""
   color: danger
 
   #secondary / success / danger / warning / info / light / dark (choose one only, default is primary)
