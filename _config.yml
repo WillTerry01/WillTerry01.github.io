@@ -61,6 +61,13 @@ collections:
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
+collections:
+  projects:
+    output: true
+    permalink: /projectsuni/:name
+  elements:                                             # For Documentation Only
+    output: true                                   # For Documentation Only
+
 
 ### Disqus ###
 disqus:
@@ -89,6 +96,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "uniprojects"
     values:
       layout: "page"
   - scope:                                              # For Documentation Only
