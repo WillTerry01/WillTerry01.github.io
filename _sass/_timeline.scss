@@ -7,11 +7,11 @@
     // Left Border
     content: "";
     width: 4px;
-    height: 100% - 30; // Ensure the border is the same height as the content
+    height: 100% - 30px; // Ensure the border is the same height as the content
     background-color: $primary;
     position: absolute;
     left: -4px;
-    top: 15;
+    top: 15px;
     border-radius: $rounded-borders; // Ensure the left border is also rounded
   }
 

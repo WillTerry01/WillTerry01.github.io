@@ -1,11 +1,11 @@
 - name: Python
   percentage: 40
-  color: danger
+  color: primary
 
 - name: C++
   percentage: 30
-  color:
+  color: primary
 
 - name: ROS 2
   percentage: 10
-  color: secondary
+  color: primary
