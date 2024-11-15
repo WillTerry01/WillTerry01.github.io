@@ -1,11 +1,11 @@
 - name: Fusion 360
   percentage: 60
-  color: warning
+  color: 7A5CCC
 
 - name: Wood Working
   percentage: 80
-  color: warning
+  color: 7A5CCC
 
 - name: Cooking
   percentage: 70
-  color: warning
+  color: 7A5CCC
