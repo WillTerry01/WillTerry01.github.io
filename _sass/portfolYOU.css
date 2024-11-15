@@ -269,7 +269,7 @@ body {
 .bg-dark *,
 .badge-dark,
 .badge-dark * {
-  color: #7a5ccc !important;
+  color: #7a5ccc;
 }
 
 .search-box {
