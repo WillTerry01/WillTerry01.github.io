@@ -8,7 +8,13 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here’s a little about me, along with my skills and hobbies! I’m currently a student at UCL, working toward a master’s degree in robotics, and I’m seeking opportunities in this exciting field starting September 2025, once I’ve completed my studies.
+
+In my free time, I enjoy exploring creative projects like the ones showcased in the "Projects" tab. Outside of tech, I have a passion for cooking and staying active at the gym. While cooking may not be a professional skill, it’s certainly one of my personal specialties! :smile:
+
+(inset a photo of some of the food here will)
+
+Below, you’ll find a list of my skills, along with my own evaluation of where I stand in comparison to a senior professional.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
