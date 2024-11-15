@@ -1,11 +1,11 @@
 - name: Python
   percentage: 40
-  color: 7A5CCC
+  color: purple
 
 - name: C++
   percentage: 30
-  color: 7A5CCC
+  color: purple
 
 - name: ROS 2
   percentage: 10
-  color: 7A5CCC
+  color: purple
