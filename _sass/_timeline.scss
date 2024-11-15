@@ -1,18 +1,17 @@
 .timeline-body {
   position: relative;
-  border-radius: $rounded-borders; // Round all corners
+  border-radius: 0, $rounded-borders, $rounded-borders, 0; // Round all corners
   padding: 5px 0;
 
   &:after {
     // Left Border
     content: "";
     width: 4px;
-    height: 100% - 30px; // Ensure the border is the same height as the content
+    height: 100%; // Ensure the border is the same height as the content
     background-color: $primary;
     position: absolute;
     left: -4px;
-    top: 15px;
-    border-radius: $rounded-borders; // Ensure the left border is also rounded
+    top: 0;
   }
 
   .timeline-item {
