@@ -1,35 +1,28 @@
+
 <div class="col mt-4">
   <div class="timeline-body bg-themed">
     <!-- Education Section -->
     <h3>Education</h3>
-    <div class="education-section">
-      {% for item in site.data.timeline-education %}
-        {% if item.category == 'education' %}
-          <div class="timeline-item">
-            <div class="content" style="font-size: 0.9rem;">
-              <h2>{{ item.title }}</h2>
-              <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
-              <p>{{ item.description }}</p>
-            </div>
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
+    {% for item in site.data.timeline-education %}
+      <div class="timeline-item">
+        <div class="content" style="font-size: 0.9rem;">
+          <h2>{{ item.title }}</h2>
+          <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
+          <p>{{ item.description }}</p>
+        </div>
+      </div>
+    {% endfor %}
 
     <!-- Work Experience Section -->
     <h3>Work Experience</h3>
-    <div class="work-experience-section">
-      {% for item in site.data.timeline-experience %}
-        {% if item.category == 'work' %}
-          <div class="timeline-item">
-            <div class="content" style="font-size: 0.9rem;">
-              <h2>{{ item.title }}</h2>
-              <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
-              <p>{{ item.description }}</p>
-            </div>
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
+    {% for item in site.data.timeline-experience %}
+      <div class="timeline-item">
+        <div class="content" style="font-size: 0.9rem;">
+          <h2>{{ item.title }}</h2>
+          <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
+          <p>{{ item.description }}</p>
+        </div>
+      </div>
+    {% endfor %}
   </div>
 </div>
