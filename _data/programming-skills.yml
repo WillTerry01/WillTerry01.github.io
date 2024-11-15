@@ -1,11 +1,11 @@
 - name: Python
   percentage: 40
-  color: primary
+  color: $primary
 
 - name: C++
   percentage: 30
-  color: primary
+  color: $primary
 
 - name: ROS 2
   percentage: 10
-  color: primary
+  color: $primary
