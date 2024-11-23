@@ -12,7 +12,7 @@ Here’s a little about me, along with my skills and hobbies! I’m currently a 
 
 In my free time, I enjoy exploring creative projects like the ones showcased in the "Projects" tab. Outside of tech, I have a passion for cooking and staying active at the gym. While cooking may not be a professional skill, it’s certainly one of my personal specialties! :smile:
 
-[![Cooking](../Pictures/Pasta.jpeg){: .rounded-circle}](https://www.instagram.com/will_terry_food/)
+[![Cooking](../Pictures/Pasta.jpeg){: width="150px" .rounded-circle}](https://www.instagram.com/will_terry_food/)
 
 Below, you’ll find a list of my skills, along with my own evaluation of where I stand in comparison to a **senior professional**.
 

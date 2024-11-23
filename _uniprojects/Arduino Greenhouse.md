@@ -1,20 +1,27 @@
 ---
 name: Arduino Smart Greenhouse
-tools: [C#, XML, WPF]
+tools: [Arduino, C, Electronics]
 image: https://i.imgur.com/EtLkl4o.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: A 2nd year project using an Arduino to control a greenhouse.
 ---
 
-# The Movies Project
+# The Arduino Project
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+The Arduino Smart Greenhouse project served as an introduction to coding in C and using an Arduino to control environmental conditions in a greenhouse. While the project did not involve building the greenhouse itself, it focused heavily on programming and electronics, resulting in a system with several key features:
 
-![preview](https://i.imgur.com/8PAR0Zu.png)
+    - Temperature Monitoring and Control: Adjustable range settings to maintain optimal conditions.
+    - Humidity Measurement and Regulation: Keeps humidity within user-defined thresholds.
+    - Light Intensity Detection: Allows customizable target levels for lighting.
+    - LCD Display: Provides real-time sensor readings for temperature, humidity, and light intensity.
+    - Analog Stick Interface: Simplifies the adjustment of environmental parameters.
 
-## Search Movies
+{% include elements/video.html id="[YOUTUBE_VIDEO_ID](https://youtu.be/0pdPPTcaxIU)" %}
 
-![search](https://i.imgur.com/Gpv0t5T.png)
+The system also included a built-in alert system: a buzzer would sound if any environmental conditions—temperature, humidity, or light—were out of range. All relevant data was displayed in real time on the LCD screen, providing easy monitoring.
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/willlllllT/willlllllT.github.io" text="Link to the Repo" %}
-</p>
+This project was a fun and practical introduction to Arduino, offering hands-on experience with sensors, coding, and electronics. I’d highly recommend it to anyone looking to get started with Arduino!
+
+
+
+
+
