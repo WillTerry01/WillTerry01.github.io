@@ -1,7 +1,7 @@
 ---
 name: Arduino Smart Greenhouse
 tools: [Arduino, C, Electronics]
-image: ../Pictures/GreenHouse
+image: ../Pictures/GreenHouse.png
 description: A 2nd year project using an Arduino to control a greenhouse.
 ---
 
