@@ -55,6 +55,13 @@
 
       {% endfor %}
 
+      {% include elements/button.html 
+        text="<i class='fas fa-file-download'></i> Downlad My CV"
+        style="outline-primary"
+        size="sm"
+        link="/assets/CV.pdf"
+      %}
+
       <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
     </div>
   </div>
