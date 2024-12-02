@@ -1,17 +1,15 @@
-- title: BEng Student, University of Leeds, UK
-  from: 2020
-  to: 2023
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
 - title: MSc Student, University College London, UK
-  from: 2024
+  from: September 2024
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: My current studies at University College London focus on the cutting-edge field of robotics and artificial intelligence. The program covers a wide range of topics, including computer vision, estimation and control, modeling and motion planning, and aerial robotics. I am delving into the intricacies of object detection and classification, exploring how machines can perceive and interpret the visual world. Furthermore, I am gaining expertise in robot vision and navigation, enabling robots to autonomously navigate complex environments. The course also covers robotic sensing, manipulation, and interaction, providing me with a holistic understanding of how robots can interact with their surroundings. Through this rigorous program, I am acquiring the knowledge and skills necessary to contribute to the advancement of robotics and AI technologies.
+
+- title: BEng Student, University of Leeds, UK
+  from: September 2020
+  to: June 2023
+  description: During my undergraduate studies in Robotics and Mechatronics at the University of Leeds, I gained a strong foundation in various engineering disciplines. I delved into the realms of intelligent systems, machine learning, and artificial intelligence, exploring their applications in robotics. Additionally, I acquired hands-on experience with embedded systems, microprocessors, and programmable logic, enabling me to design and implement control systems for robotic devices. My coursework also covered electric machines, electronic circuit design, and sensor-actuator systems, providing me with a comprehensive understanding of the hardware components that underpin robotic systems. Furthermore, I explored the emerging field of additive manufacturing, gaining insights into the potential of 3D printing for rapid prototyping and customized manufacturing. As the EDI representative for the faculty of electrical engineering, I actively contributed to fostering a diverse and inclusive learning environment.
+
+- title: Machine Learning Specialization, Deeplearning.ai | Stanford Online
+  from: April 2024
+  to: June 2024
+  description: Over the summer, I delved into the realm of supervised machine learning, focusing on regression and classification techniques. I explored advanced learning algorithms, delving into the intricacies of these powerful tools. Additionally, I ventured into the world of unsupervised learning, uncovering the potential of data-driven insights without explicit labels. To further enhance my understanding, I explored the fascinating fields of recommenders and reinforcement learning, gaining valuable knowledge in these cutting-edge areas. This self-guided learning experience solidified my foundation in machine learning concepts, preparing me for the challenges and opportunities at UCL.
+
