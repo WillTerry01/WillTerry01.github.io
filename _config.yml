@@ -5,7 +5,7 @@ description         : >-
                       ranging from robotics 🤖 and AI to woodworking and 3D printing. 
                       I hope you enjoy exploring them as much as I loved creating them! 😊
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : willlllllT/willlllllT.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : WillTerry01/WillTerry01.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -32,7 +32,7 @@ author:
 # dribbble          : your_username
   email             : will@milbanke.com
 #  facebook          : your_username
-  github            : willlllllT
+  github            : WillTerry01
 # gitlab            : your_username
   instagram         : will_terry_food
 # kaggle            : your_username
