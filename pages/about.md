@@ -5,23 +5,29 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+## About
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Here’s a little about me, along with my skills and hobbies! I’m currently a student at UCL, working toward a master’s degree in robotics, and I’m seeking opportunities in this exciting field starting September 2025, once I’ve completed my studies.
+Hi, I’m **{{ site.author.name }}** 👋  
 
-In my free time, I enjoy exploring creative projects like the ones showcased in the "Projects" tab. Outside of tech, I have a passion for cooking and staying active at the gym. While cooking may not be a professional skill, it’s certainly one of my personal specialties! :smile:
+I recently completed my **Master’s in Robotics and AI at UCL**, where I focused on practical applications of autonomous systems and perception. Throughout my studies, I spent countless hours developing the robotics projects showcased in the **Uni Projects** tab — each one an opportunity to combine creativity with technical depth.  
+
+To stay active in the field, I’ve been working part-time as a **Teaching Assistant** for an embedded systems course at UCL, helping students program STM32 microcontrollers and integrate various sensors. This experience has deepened my understanding of hardware–software interaction and reinforced my passion for hands-on engineering.  
+
+I’m now eager to **launch my career in Robotics and SLAM**, and I’m actively pursuing opportunities where I can contribute to innovative, real-world systems.  
+
+
+Outside of robotics, I enjoy experimenting with creative projects (see the **Projects** tab), **cooking**, and **staying active**. I previously worked as a cook, which taught me patience, timing, and precision — skills that surprisingly align well with robotics! I’m also an avid **gamer and tinkerer**, often setting up custom servers for **Minecraft** and **Terraria** on repurposed Linux machines for friends. 😄
 
 {: .text-center}
 [![Cooking](../Pictures/Pasta.jpeg){: width="250px" .rounded-circle }](https://www.instagram.com/will_terry_food/)
 
 
-Below, you’ll find a list of my skills, along with my own evaluation of where I stand in comparison to a **senior professional**.
+<!-- Below, you’ll find a list of my skills, along with my own evaluation of where I stand in comparison to a **senior professional**.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+</div> -->
 
 <div class="row">
 {% include about/timeline.html %}
