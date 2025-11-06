@@ -32,11 +32,36 @@ Building was simpler — more my cup of tea. We started by gathering all the 2×
 
 We created a **structurally sound frame**, probably overkill, making the shed heavy. This actually worked in our favor, as it isn’t bolted to the ground but simply sits on the concrete base with a ground sheet to prevent moisture ingress.  
 
-| ![Half Frame](../Pictures/Shed/IMG_20160729_170238.jpg){: width="400px"} | ![Full Frame](../Pictures/Shed/IMG_20160805_140123.jpg){: width="400px"} |
+<div class="img-row">
+  <img src="../Pictures/Shed/IMG_20160729_170238.jpg" alt="Half Frame" >
+  <img src="../Pictures/Shed/IMG_20160805_140123.jpg" alt="Full Frame" >
+</div>
 
 Cladding came next — the most time-consuming part without proper tools, taking up most of the first week. Then we added the roof and inserted the window. By this point, my main work was done helping my dad, who finished the shed with a coat of gray paint that complemented the black roof while preserving the surrounding landscape. The door from the previous shed was salvaged and reused, keeping the project sustainable.  
 
-| ![Half Frame](../Pictures/Shed/IMG_20160806_203123.jpg){:width="400px"} | ![Full Frame](../Pictures/Shed/IMG_20160807_135346.jpg){:width="400px"} |
+<style>
+  .img-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  .img-row img {
+    width: calc(50% - 6px);
+    max-width: 100%;
+    height: auto;
+  }
+  @media (max-width: 640px) {
+    .img-row img {
+      width: 100%;
+    }
+  }
+</style>
+
+<div class="img-row">
+  <img src="../Pictures/Shed/IMG_20160806_203123.jpg" alt="Half Frame">
+  <img src="../Pictures/Shed/IMG_20160807_135346.jpg" alt="Full Frame">
+</div>
 
 
 ---
