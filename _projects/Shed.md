@@ -10,7 +10,7 @@ description: Building a shed for my parents’ garden, completely from scratch!
 **Situation:**  
 Picture this: your old shed is over 25 years old, poorly built, riddled with holes in the roof, and a complete hazard to anyone who dares go inside.  
 
-In the summer of 2017, we were left wondering what to do with this broken shell. We decided the best approach was to knock it down and start over — but this time, things would be different.
+In the summer of 2016, we were left wondering what to do with this broken shell. We decided the best approach was to knock it down and start over — but this time, things would be different.
 
 ---
 
@@ -71,6 +71,6 @@ And there we have it: a freestanding shed built from scratch, taking about a mon
 
 ![Shed Today](../Pictures/Shed/IMG_20160905_100421.jpg){:width="400px"} 
 
-Eight years on, the planning my dad and I put in has clearly paid off, and the shed barely looks any different from the day it was finished. This project wasn’t just about building a shed — it was about **learning, problem-solving, and working together** on something that would last for years.
+Nine years on, the planning my dad and I put in has clearly paid off, and the shed barely looks any different from the day it was finished. This project wasn’t just about building a shed — it was about **learning, problem-solving, and working together** on something that would last for years.
 
 ![Shed Today](../Pictures/Shed/ShedToday.jpeg){:width="600px"} 

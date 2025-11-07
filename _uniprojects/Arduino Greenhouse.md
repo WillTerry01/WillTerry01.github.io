@@ -1,27 +1,48 @@
 ---
-name: Arduino Smart Greenhouse
+name: BEng - Arduino Smart Greenhouse
 tools: [Arduino, C, Electronics]
 image: ../Pictures/GreenHouse.png
-description: A 2nd year project using an Arduino to control a greenhouse.
+description: A second-year project using Arduino to monitor and control environmental conditions in a smart greenhouse.
+---
+# Smart Greenhouse
+
+This project introduced me to **embedded programming in C** and **hardware control with Arduino**, focusing on creating an automated greenhouse monitoring system.  
+While we didn’t construct the physical greenhouse, the emphasis was on developing reliable **sensor integration**, **control logic**, and **user interaction** through hardware.
+
 ---
 
-# The Arduino Project
+### 🌱 System Features
 
-The Arduino Smart Greenhouse project served as an introduction to coding in C and using an Arduino to control environmental conditions in a greenhouse. While the project did not involve building the greenhouse itself, it focused heavily on programming and electronics, resulting in a system with several key features:
+- **Temperature Monitoring & Control:** Adjustable temperature thresholds to maintain ideal conditions.  
+- **Humidity Measurement & Regulation:** Automatic responses to keep humidity within user-defined limits.  
+- **Light Intensity Detection:** Adjustable light targets to simulate different growing environments.  
+- **LCD Display:** Real-time readings of temperature, humidity, and light intensity.  
+- **Analog Stick Interface:** Simple, intuitive way to modify system parameters.  
+- **Buzzer Alert System:** Audible warning when environmental conditions move out of range.
 
-    - Temperature Monitoring and Control: Adjustable range settings to maintain optimal conditions.
-    - Humidity Measurement and Regulation: Keeps humidity within user-defined thresholds.
-    - Light Intensity Detection: Allows customizable target levels for lighting.
-    - LCD Display: Provides real-time sensor readings for temperature, humidity, and light intensity.
-    - Analog Stick Interface: Simplifies the adjustment of environmental parameters.
+---
+
+### 🎥 Demonstration
 
 {% include elements/video.html id="0pdPPTcaxIU" %}
 
-The system also included a built-in alert system: a buzzer would sound if any environmental conditions—temperature, humidity, or light—were out of range. All relevant data was displayed in real time on the LCD screen, providing easy monitoring.
+---
 
-This project was a fun and practical introduction to Arduino, offering hands-on experience with sensors, coding, and electronics. I’d highly recommend it to anyone looking to get started with Arduino!
+### ⚙️ Implementation Details
 
+The system continuously read sensor inputs and adjusted actuators to maintain balance within set thresholds.  
+All readings were displayed live on the LCD, allowing for quick feedback and system tuning.  
+A **buzzer alarm** provided a failsafe alert whenever conditions exceeded safe ranges.
 
+This project deepened my understanding of **sensor calibration**, **PWM control**, **real-time monitoring**, and **embedded system design**.
 
+---
 
+### 💡 Key Takeaways
 
+- Built confidence in **C programming** and **Arduino hardware integration**.  
+- Gained hands-on experience with **environmental sensors** and **control loops**.  
+- Developed a stronger appreciation for how simple electronics can enable meaningful automation.  
+- Sparked a lasting interest in **embedded systems and control theory**.
+
+---

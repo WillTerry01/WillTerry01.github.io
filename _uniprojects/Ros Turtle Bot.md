@@ -1,16 +1,29 @@
 ---
-name: ROS1 - Trutle Bot
-tools: [ROS1, Python, CV2]
+name: BEng - ROS1, Turtle Bot
+tools: [ROS1, Python, OpenCV]
 image: ../Pictures/TurtleBot.jpg
-description: A Maze navigating Robot using ROS1 with CV2 Library
+description: Maze-navigating TurtleBot using ROS1 and computer vision with OpenCV.
 ---
+# Turtle Bot and ROS1
 
-# Turtle Bot
+The **TurtleBot** is a pre-built ROS1 robot designed for autonomous navigation and object detection.  
 
-The TurtleBot is a system pre-built with ROS1, designed for tasks like autonomous navigation and object detection. For this project, the robot's task was to navigate a small maze and locate two doors—one labeled with a green dot and the other with a red dot. Using the CV2 library for computer vision, the robot identified the correct door to pass through based on its color.
+For this project, the robot had to **navigate a maze** and locate two doors — one marked with a green dot, the other with a red dot. Using **OpenCV (CV2)**, the robot identified the correct door based on color.
 
-Once inside the room, the robot had to search for a Cluedo character pictured on the wall. To identify the character, the system utilized Harris Corner Detection, allowing the robot to correctly determine the character's identity.
+Once inside, it had to **search for a Cluedo character** displayed on the wall. To identify the character, the system leveraged **Harris Corner Detection**, allowing accurate recognition even in a small-scale, cluttered environment.
 
 {% include elements/video.html id="aU5ADpcGbyY" %}
 
-This project was particularly challenging as it was my first time working with ROS1. However, it provided a solid foundation, and since then, I’ve gained significant experience with ROS2 and have undertaken other ROS2-based projects.
+### 🔧 Approach & Implementation
+- Developed ROS1 nodes in **Python** for navigation, sensor handling, and vision processing.  
+- Implemented a **maze exploration algorithm**, combining sensor feedback with simple path planning.  
+- Integrated **color detection** and corner-based feature recognition for object identification.  
+- Debugged ROS1 topics, messages, and TF frames to ensure smooth communication between sensors and actuators.  
+
+### 💡 Key Takeaways
+- Gained hands-on experience with **ROS1 architecture**, including nodes, topics, and message passing.  
+- Learned to integrate **computer vision with real-time robotics control**.  
+- Improved debugging and problem-solving skills in a multi-component system.  
+- Built confidence transitioning from ROS1 to ROS2 for more complex robotics projects later in my studies.
+
+---

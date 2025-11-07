@@ -1,5 +1,16 @@
 
-<div class="card-columns m-3 mt-5">
+<div class="m-3 mt-4">
+  {% if page.projects_intro %}
+    <p>{{ page.projects_intro }}</p>
+  {% elsif site.uni_projects_intro %}
+    <p>{{ site.uni_projects_intro }}</p>
+  {% endif %}
+</div>
+
+<div style="border-top: 1px solid #dee2e6; margin: 1rem 1rem;"></div>
+
+
+<div class="card-columns m-3 mt-3">
 
   <!-- Remote Projects -->
   {% for remote_project in page.remote_projects %}
